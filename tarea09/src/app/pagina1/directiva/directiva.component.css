@@ -1,0 +1,15 @@
+body{
+    background-color: yellowgreen;
+}
+
+.inpu{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.respuesta{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
